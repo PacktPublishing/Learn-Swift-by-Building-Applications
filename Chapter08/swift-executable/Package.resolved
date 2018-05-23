@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-lib",
+        "repositoryURL": "/Users/emil/Documents/Swift 4/Chapter 8/swift-lib",
+        "state": {
+          "branch": null,
+          "revision": "4bdfe19b597e6d5e360d8b5b241b7d42489fa750",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
