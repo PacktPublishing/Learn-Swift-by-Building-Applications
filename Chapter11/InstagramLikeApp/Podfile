@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'InstagramLikeApp' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for InstagramLikeApp
+  
+  pod 'Firebase/Core'
+  pod 'FirebaseUI/Auth', '~> 4.0'
+  # database & storage
+  pod 'Firebase/Database'
+  pod 'Firebase/Storage'
+  # storage UI
+  pod 'FirebaseUI/Storage'
+  # Instragram-like photo browser
+  pod 'YPImagePicker'
+  #customisable tabbar
+  pod 'ESTabBarController-swift'
+  
+  #nice horizontal list
+  #pod 'ASHorizontalScrollView', '~> 1.5.1'
+  # add progress
+  # https://github.com/mrackwitz/MRProgress
+
+end
